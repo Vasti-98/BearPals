@@ -7,3 +7,6 @@ Co-Founders and Ceos:
     Vasti Orbach,
     April Zhang
     
+    
+I've created a test folder so we can play around the html/css files :)
+
