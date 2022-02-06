@@ -7,3 +7,4 @@ Deliverable - We hope to build a website that matches students with other studen
 
 Timeline - Currently, we have a mock-up Figma for the different pages on our site. We are looking to finish our project by the end of next semester (spring 2022) and hopefully turn it into a mobile application. Next steps after site completion include marketing and promotion of our site.
 Team - We are a team of four, and are looking for a few more members to join us!
+
